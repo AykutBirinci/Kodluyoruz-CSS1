@@ -1,0 +1,27 @@
+h1 {
+    color: red; text-align: center;
+}
+
+#links {
+    text-align: center;
+}
+
+h2 {
+    color: #FFBB5C; text-align: center;
+}
+
+.h3-Tags {
+    color: #053B50; text-align: center;
+}
+
+.h3-Tags2 { 
+    color: #053B50;
+}
+
+.lists {
+    list-style-position: inside; text-align: center;
+}
+
+#First-Page-Paragraph {
+    text-align: center;
+}
